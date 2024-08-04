@@ -1,0 +1,7 @@
+C:\Users\Chizuru\Downloads\Jogo1.0\Jogo1.0\bin\Debug\Jogo1.0.exe.config
+C:\Users\Chizuru\Downloads\Jogo1.0\Jogo1.0\bin\Debug\Jogo1.0.exe
+C:\Users\Chizuru\Downloads\Jogo1.0\Jogo1.0\bin\Debug\Jogo1.0.pdb
+C:\Users\Chizuru\Downloads\Jogo1.0\Jogo1.0\obj\Debug\Jogo1.0.csproj.AssemblyReference.cache
+C:\Users\Chizuru\Downloads\Jogo1.0\Jogo1.0\obj\Debug\Jogo1.0.csproj.CoreCompileInputs.cache
+C:\Users\Chizuru\Downloads\Jogo1.0\Jogo1.0\obj\Debug\Jogo1.0.exe
+C:\Users\Chizuru\Downloads\Jogo1.0\Jogo1.0\obj\Debug\Jogo1.0.pdb
