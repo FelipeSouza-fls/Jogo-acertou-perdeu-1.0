@@ -1,0 +1,7 @@
+C:\Users\Chizuru\Downloads\Jogo2.0\Jogo2.0\bin\Debug\Jogo2.0.exe.config
+C:\Users\Chizuru\Downloads\Jogo2.0\Jogo2.0\bin\Debug\Jogo2.0.exe
+C:\Users\Chizuru\Downloads\Jogo2.0\Jogo2.0\bin\Debug\Jogo2.0.pdb
+C:\Users\Chizuru\Downloads\Jogo2.0\Jogo2.0\obj\Debug\Jogo2.0.csproj.AssemblyReference.cache
+C:\Users\Chizuru\Downloads\Jogo2.0\Jogo2.0\obj\Debug\Jogo2.0.csproj.CoreCompileInputs.cache
+C:\Users\Chizuru\Downloads\Jogo2.0\Jogo2.0\obj\Debug\Jogo2.0.exe
+C:\Users\Chizuru\Downloads\Jogo2.0\Jogo2.0\obj\Debug\Jogo2.0.pdb
